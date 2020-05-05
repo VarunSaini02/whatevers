@@ -2,7 +2,7 @@
 //  SinglePlayerViewController.swift
 //  BattleOfWill
 //
-//  Created by 90304566 on 3/3/20.
+//  Created by Varun Saini on 3/3/20.
 //  Copyright © 2020 Eden Prairie Schools. All rights reserved.
 //
 
